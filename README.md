@@ -1,4 +1,4 @@
-                      #ViNA
+#ViNA
 
 ViNA: An open source platform integrates VoIP, CoIP, XMPP, private IP 
 and telecommunications protocols. It supports calling, video calling, 
