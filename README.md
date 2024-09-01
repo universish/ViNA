@@ -27,10 +27,14 @@ ViNA stands for Voice Interconnection Network Architecture.
 This name beautifully reflects the purpose and structure of our project:
 
 Voice: Voice communication
+
 Interconnection: Represents the connection between different systems 
 and protocols.
+
 Network Architecture: Expresses the overall architecture of your project 
 and the structure of bringing different protocols together.
+
+
 In this way, ViNA became a meaningful name both as the abbreviation 
 of "VoIP is Not Another" and as "Voice Interconnection Network Architecture".
 
