@@ -1,6 +1,7 @@
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
+ Copyright (C) 2024 Saffet Yavuz
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
@@ -659,3 +660,54 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+ This project is initiated and maintained by Saffet Yavuz.
+
+ViNA
+https://github.com/universish/ViNA
+
+
+
+                           Dual Licensing
+
+  This project is offered under two licenses:
+
+    1. GNU Affero General Public License v3 (AGPL v3): Applies to those who 
+wish to use the project as open source. This license requires that the source 
+code of the software be made open and accessible even when accessed over 
+a network.
+
+    2. Commercial License: Applies to those who wish to host and use the 
+Software as SaaS (Software as a Service). The following rights and obligations 
+apply under the commercial license:
+
+        ◦ SaaS Services: Companies that host software and offer it as a 
+service must use it under a commercial license. Commercial agreements and 
+contracts are required.
+
+        ◦ Commercial Agreements: When offering SaaS services, it is possible 
+to customize the software, provide support and offer additional services 
+through commercial agreements. Companies and organizations can enter into 
+commercial agreements for the integration of this software and receive 
+professional support.
+
+        ◦ Company and Foundation Organizations: When you see fit, you can set 
+up a company, foundation or cooperative to use the software and operate as a 
+service provider. By providing services, you can generate revenue and offer 
+additional services.
+
+        ◦ Technical Support and Integration: Commercial contracts can be 
+awarded to companies and communities to adapt the software, provide professional 
+support and integrate it. Commercial agreements can also be made with governments
+and companies for integration into existing telecommunications infrastructures.
+
+        ◦ SaaS Control: The Free Software Foundation (FSF) and Saffet Yavuz 
+shall have control of the SaaS services of the Software. It is stated that FSF 
+is not the sole authority and any changes and authorizations made by FSF without 
+the consent of Saffet Yavuz are invalid. Saffet Yavuz is the only authorized 
+person for the SaaS services of the project.
+
+  By complying with these terms, you can both offer your software as open source
+and provide your services under a commercial license. For more information about
+the licenses, you can visit https://github.com/universish/ViNA or contact
+saffet.yavuz@universish.anonaddy.me .
